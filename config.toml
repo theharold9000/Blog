@@ -1,4 +1,10 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Test Blog"
-theme = "ananke"
+theme = "hyde-hyde"
+
+[Menus]
+    main = [
+        {Name = "LinkedIn", URL = "https://www.linkedin.com/in/harold-liu/"},
+        {Name = "Twitter", URL = "https://twitter.com/theharold9000"},
+    ]
