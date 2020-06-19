@@ -6,6 +6,8 @@ theme = "hyde-hyde"
 [params]
     description = "Thoughts & Things"
     postNavigation = false
+    layoutReverse = true
+    themeColor = "theme-base-0d"
 
 [params.social]
     github = "theharold9000"
