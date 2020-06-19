@@ -1,10 +1,10 @@
 baseURL = "theharold9000.github.io"
 languageCode = "en-us"
-title = "Harold's Blog"
+title = "Harold Liu"
 theme = "hyde-hyde"
 
 [params]
-    description = "I'm a 26 yeard old technical recruiter living in Brisbane, Australia. These are my thought"
+    description = "Thoughts & Things"
 
 [Menus]
     main = [
