@@ -6,6 +6,11 @@ theme = "hyde-hyde"
 [params]
     description = "Thoughts & Things"
 
+[params.social]
+    github = "theharold9000"
+    linkedin = "harold-liu"
+    twitter = "theharold9000"
+
 [Menus]
     main = [
         {Name = "LinkedIn", URL = "https://www.linkedin.com/in/harold-liu/"},
