@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Harold's Blog"
 theme = "hyde-hyde"
 
+[params]
+    description = "I'm a 26 yeard old technical recruiter living in Brisbane, Australia. These are my thought"
+
 [Menus]
     main = [
         {Name = "LinkedIn", URL = "https://www.linkedin.com/in/harold-liu/"},
