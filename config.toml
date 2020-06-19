@@ -5,14 +5,17 @@ theme = "hyde-hyde"
 
 [params]
     description = "Thoughts & Things"
+    postNavigation = false
 
 [params.social]
     github = "theharold9000"
     linkedin = "harold-liu"
     twitter = "theharold9000"
 
-[Menus]
-    main = [
-        {Name = "LinkedIn", URL = "https://www.linkedin.com/in/harold-liu/"},
-        {Name = "Twitter", URL = "https://twitter.com/theharold9000"},
-    ]
+[[memu.main]]
+    name = "Posts"
+    url = "/posts/"
+
+[[memu.main]]
+    name = "About Me"
+    url = "/about/about-me"
