@@ -1,4 +1,4 @@
-baseURL = "theharold9000.github.io"
+baseURL = "https://theharold9000.github.io/"
 languageCode = "en-au"
 title = "Harold Liu"
 theme = "hyde-hyde"
