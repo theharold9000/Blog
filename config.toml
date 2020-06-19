@@ -1,13 +1,13 @@
 baseURL = "theharold9000.github.io"
-languageCode = "en-us"
+languageCode = "en-au"
 title = "Harold Liu"
 theme = "hyde-hyde"
 
 [params]
     description = "Thoughts & Things"
     postNavigation = false
-    layoutReverse = true
-    themeColor = "theme-base-0d"
+    themeColor = "theme-base-br"
+    showBuiltWith = true
 
 [params.social]
     github = "theharold9000"
