@@ -3,6 +3,7 @@ languageCode = "en-au"
 title = "Harold Liu"
 theme = "hugo-theme-codex"
 copyright = "© {year}"
+googleAnalytics = "UA-174256413-1"
 
 [params]
   # Follow the Hugo date/time format reference here: 
